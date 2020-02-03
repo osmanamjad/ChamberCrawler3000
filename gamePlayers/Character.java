@@ -1,4 +1,4 @@
-package Characters;
+package gamePlayers;
 
 public class Character {
 	double startingHealth;
