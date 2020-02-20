@@ -1,7 +1,7 @@
 package gamePlayers;
 
 public class Character {
-	private final double STARTINGHEALTH;
-	private final double ATTACK;
-	private final double DEFENSE;
+	protected double STARTINGHEALTH;
+	protected double ATTACK;
+	protected double DEFENSE;
 }
