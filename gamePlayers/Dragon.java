@@ -5,5 +5,6 @@ public class Dragon extends Enemy {
 		this.ATTACK = 20;
 		this.DEFENSE = 20;
 		this.STARTINGHEALTH = 150;
+		this.goldDropped = 0;
 	}
 }
