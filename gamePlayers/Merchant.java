@@ -1,6 +1,7 @@
 package gamePlayers;
 
 public class Merchant extends Enemy {
+	// denoted by M
 	boolean isHostile = false;
 	public Merchant() {
 		this.ATTACK = 70;
